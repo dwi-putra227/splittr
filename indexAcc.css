@@ -1,0 +1,197 @@
+.account-child {
+    position: absolute;
+    top: 157px;
+    left: 222px;
+    border-radius: 50px;
+    background-color: var(--color-white);
+    box-shadow: 0 0 10px 4px rgba(0, 0, 0, 0.5);
+    width: 996px;
+    height: 773px;
+  }
+  .tr {
+    color: #0029ff;
+  }
+  .splittr {
+    position: relative;
+    font-weight: 800;
+  }
+  .logo {
+    position: absolute;
+    top: 32px;
+    left: 120px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-base) 0;
+    font-size: 30px;
+  }
+  .user-profile {
+    position: absolute;
+    top: 191px;
+    left: 324px;
+    font-size: 32px;
+    font-weight: 800;
+  }
+  .account-inner,
+  .account-item {
+    position: absolute;
+    top: 663px;
+    left: 325px;
+    background-color: var(--color-white);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 792px;
+    height: 82px;
+  }
+  .account-inner {
+    top: 785px;
+  }
+  .alamat-e-mail,
+  .nama-lengkap {
+    position: absolute;
+    top: 639px;
+    left: 325px;
+    font-weight: 600;
+  }
+  .alamat-e-mail {
+    top: 761px;
+  }
+  .home {
+    position: relative;
+    font-weight: 500;
+  }
+  .navbar {
+    position: absolute;
+    top: 42px;
+    left: 437px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-base) 0;
+    gap: 74px;
+  }
+  .ellipse-icon {
+    position: absolute;
+    top: 38px;
+    left: 1249px;
+    border-radius: 50%;
+    width: 65px;
+    height: 65px;
+    object-fit: cover;
+  }
+  .person-add-undefined-glyph {
+    position: absolute;
+    top: 45px;
+    left: 1055px;
+    width: 50px;
+    height: 50px;
+    overflow: hidden;
+  }
+  .theo,
+  .theoyahuucom {
+    position: absolute;
+    top: 686px;
+    left: 367px;
+    font-size: var(--font-size-5xl);
+    font-weight: 500;
+  }
+  .theoyahuucom {
+    top: 808px;
+    color: inherit;
+    text-decoration: none;
+  }
+  .alert-undefined-glyph-und {
+    position: absolute;
+    top: 45px;
+    left: 1152px;
+    width: 50px;
+    height: 50px;
+    overflow: hidden;
+  }
+  .account-child1,
+  .account-child2,
+  .rectangle-div {
+    position: absolute;
+    top: 290px;
+    left: 325px;
+    background-color: var(--color-white);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 792px;
+    height: 82px;
+  }
+  .account-child1,
+  .account-child2 {
+    top: 412px;
+  }
+  .account-child2 {
+    top: 534px;
+  }
+  .id-user,
+  .password,
+  .username {
+    position: absolute;
+    top: 266px;
+    left: 325px;
+    font-weight: 600;
+  }
+  .password,
+  .username {
+    top: 510px;
+  }
+  .username {
+    top: 388px;
+    left: 324px;
+  }
+  .div,
+  .div1,
+  .theo123 {
+    position: absolute;
+    top: 313px;
+    left: 367px;
+    font-size: var(--font-size-5xl);
+    font-weight: 500;
+  }
+  .div1,
+  .theo123 {
+    top: 435px;
+  }
+  .div1 {
+    top: 557px;
+    left: 373px;
+  }
+  .account {
+    position: relative;
+    background-color: #f0f0f0;
+    width: 100%;
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-black);
+    font-family: var(--font-poppins);
+  }
+
+  body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-poppins: Poppins;
+  
+    /* font sizes */
+    --font-size-5xl: 24px;
+    --font-size-base: 16px;
+  
+    /* Colors */
+    --color-black: #000;
+    --color-white: #fff;
+  
+    /* Paddings */
+    --padding-base: 16px;
+  }
+  

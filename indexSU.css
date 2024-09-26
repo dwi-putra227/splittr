@@ -1,0 +1,151 @@
+.halaman-sign-up-child {
+    position: absolute;
+    top: 237px;
+    left: 445px;
+    border-radius: 50px;
+    background-color: var(--color-white);
+    width: 550px;
+    height: 550px;
+  }
+  .sign-in {
+    position: absolute;
+    top: 688px;
+    left: 773px;
+    font-size: var(--font-size-sm);
+    color: #1877f2;
+    cursor: pointer;
+  }
+  .sign-up {
+    position: absolute;
+    top: 314px;
+    left: 547px;
+    font-size: 48px;
+    color: var(--color-black);
+  }
+  .name {
+    position: relative;
+  }
+  .name-wrapper {
+    top: 487px;
+    left: 547px;
+    background-color: var(--color-white);
+    border: 1px solid var(--color-dimgray);
+    width: 345px;
+    height: 54px;
+    justify-content: flex-start;
+  }
+  .name-wrapper,
+  .sign-up-wrapper,
+  .username-e-mail-wrapper {
+    position: absolute;
+    border-radius: var(--br-xl);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: var(--padding-mini) var(--padding-15xl);
+    box-sizing: border-box;
+  }
+  .username-e-mail-wrapper {
+    top: 417px;
+    left: 547px;
+    background-color: var(--color-white);
+    border: 1px solid var(--color-dimgray);
+    width: 345px;
+    justify-content: flex-start;
+  }
+  .sign-up-wrapper {
+    top: 622px;
+    left: 589px;
+    background-color: #254f7f;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    width: 261px;
+    justify-content: center;
+    cursor: pointer;
+    color: var(--color-white);
+  }
+  .already-have-account {
+    position: absolute;
+    top: 688px;
+    left: 608px;
+    font-size: var(--font-size-sm);
+    color: var(--color-black);
+    display: inline-block;
+    width: 164px;
+  }
+  .tr {
+    color: #0029ff;
+  }
+  .splittr {
+    position: relative;
+    font-weight: 800;
+  }
+  .logo {
+    position: absolute;
+    top: 915px;
+    left: 120px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 0;
+    font-size: 30px;
+    color: var(--color-white);
+  }
+  .eye-undefined-glyph-undef {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+    flex-shrink: 0;
+    cursor: pointer;
+  }
+  .eye-undefined-glyph-undef-wrapper {
+    border-radius: var(--br-xl);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-dimgray);
+    box-sizing: border-box;
+    width: 345px;
+    height: 54px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    padding: var(--padding-mini) var(--padding-15xl);
+    z-index: 0;
+  }
+  .password {
+    position: absolute;
+    margin: 0 !important;
+    top: 15px;
+    left: 34px;
+    z-index: 1;
+  }
+  .frame-parent {
+    position: absolute;
+    top: 557px;
+    left: 547px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 10px;
+  }
+  .halaman-sign-up {
+    position: relative;
+    width: 100%;
+    height: 1024px;
+    overflow: hidden;
+    background-image: url(./public/halaman-sign-up@3x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-gray);
+    font-family: var(--font-poppins);
+  }
+
+  

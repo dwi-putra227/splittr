@@ -1,0 +1,392 @@
+.group-child {
+    position: absolute;
+    top: 40px;
+    left: 125px;
+    background-color: var(--color-gray-100);
+    width: 465px;
+    height: 100px;
+  }
+  .group-item {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+  }
+  .group-inner,
+  .rectangle-parent {
+    position: absolute;
+    top: 616px;
+    left: 1007px;
+    width: 590px;
+    height: 180px;
+  }
+  .group-inner {
+    top: 40px;
+    left: 106px;
+    background-color: var(--color-gray-100);
+    width: 465px;
+    height: 100px;
+  }
+  .rectangle-container,
+  .rectangle-group {
+    position: absolute;
+    top: 401px;
+    left: 869px;
+    width: 571px;
+    height: 180px;
+  }
+  .rectangle-container {
+    top: 206px;
+    left: 1036px;
+  }
+  .cwok-casual-56-1-icon {
+    position: absolute;
+    top: 185px;
+    left: 962px;
+    width: 360px;
+    height: 654px;
+    object-fit: cover;
+  }
+  .m024t0237-j-finance-21sep22-1-icon {
+    position: absolute;
+    top: 394px;
+    left: 916px;
+    width: 242px;
+    height: 327px;
+    object-fit: cover;
+  }
+  .home {
+    position: relative;
+    font-weight: 500;
+  }
+  .navbar {
+    position: absolute;
+    top: 42px;
+    left: 510px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-base) 0;
+    gap: 84px;
+  }
+  .tr {
+    color: var(--color-blue);
+  }
+  .splittr {
+    position: relative;
+    font-weight: 800;
+  }
+  .logo {
+    position: absolute;
+    top: 32px;
+    left: 120px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-base) 0;
+    font-size: 30px;
+  }
+  .split-it {
+    position: relative;
+    font-weight: 600;
+  }
+  .split-it-wrapper {
+    position: absolute;
+    top: 590px;
+    left: 308px;
+    border-radius: var(--br-31xl);
+    background-color: var(--color-white);
+    box-shadow: 0 12px 4px rgba(0, 0, 0, 0.25);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 180px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 59.5px;
+    font-size: 27px;
+  }
+  .begin-your-splitting-container {
+    position: absolute;
+    top: 258px;
+    left: 120px;
+    font-size: 50px;
+    font-weight: 800;
+    display: inline-block;
+    width: 588px;
+    color: var(--color-mediumblue);
+  }
+  .patungan-aplikasi-20-child {
+    position: absolute;
+    top: 38px;
+    left: 1249px;
+    border-radius: 50%;
+    width: 65px;
+    height: 65px;
+    object-fit: cover;
+  }
+  .alert-undefined-glyph-und {
+    position: absolute;
+    top: 45px;
+    left: 1155px;
+    width: 50px;
+    height: 50px;
+    overflow: hidden;
+    object-fit: cover;
+  }
+  .patungan-aplikasi-20-item {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(25px);
+    width: 1440px;
+    height: 1024px;
+  }
+  .patungan-aplikasi-20-inner {
+    position: absolute;
+    top: 199px;
+    left: 120px;
+    border-radius: var(--br-31xl);
+    background-color: var(--color-white);
+    width: 1200px;
+    height: 915px;
+  }
+  .dismiss-undefined-glyph-u {
+    position: absolute;
+    top: 231px;
+    left: 1223px;
+    width: 65px;
+    height: 65px;
+    overflow: hidden;
+    object-fit: cover;
+  }
+  .patungan-aplikasi-20-child1 {
+    position: absolute;
+    top: 341px;
+    left: 222px;
+    border-radius: var(--br-6xl) var(--br-6xl) 0 0;
+    background-color: var(--color-white);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 996px;
+    height: 310px;
+  }
+  .youtube-premium-bisa {
+    position: absolute;
+    top: 551px;
+    left: 308px;
+    font-weight: 500;
+    display: inline-block;
+    width: 401px;
+  }
+  .youtube-logomark-icon {
+    position: relative;
+    width: 65px;
+    height: 50px;
+    object-fit: cover;
+  }
+  .youtube-logomark-parent {
+    position: absolute;
+    top: 389px;
+    left: 308px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-13xl);
+    font-size: var(--font-size-13xl);
+  }
+  .patungan-aplikasi-20-child2 {
+    position: absolute;
+    top: 661px;
+    left: 222px;
+    background-color: var(--color-white);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 996px;
+    height: 150px;
+  }
+  .user-1-member-parent {
+    position: absolute;
+    top: 712px;
+    left: 894px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .netflix-logomark-icon {
+    position: relative;
+    width: 65px;
+    height: 65px;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+  }
+  .netflix-logomark-parent {
+    position: absolute;
+    top: 704px;
+    left: 308px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-13xl);
+    font-size: var(--font-size-13xl);
+  }
+  .patungan-aplikasi-20-child3 {
+    position: absolute;
+    top: 821px;
+    left: 222px;
+    background-color: var(--color-white);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 996px;
+    height: 150px;
+  }
+  .spotify-logomark-parent,
+  .user-1-member-group {
+    position: absolute;
+    top: 872px;
+    left: 894px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .spotify-logomark-parent {
+    top: 864px;
+    left: 308px;
+    flex-direction: row;
+    align-items: center;
+    gap: var(--gap-13xl);
+    font-size: var(--font-size-13xl);
+  }
+  .chevron-down-undefined-gly,
+  .chevron-down-undefined-gly1 {
+    position: absolute;
+    top: 704px;
+    left: 1093px;
+    width: 65px;
+    height: 64px;
+    overflow: hidden;
+    object-fit: cover;
+  }
+  .chevron-down-undefined-gly1 {
+    top: 864px;
+  }
+  .patungan-aplikasi-20-child4 {
+    position: absolute;
+    top: 981px;
+    left: 222px;
+    background-color: var(--color-white);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 996px;
+    height: 150px;
+  }
+  .spotify-logomark-group,
+  .user-1-member-container {
+    position: absolute;
+    top: 1032px;
+    left: 894px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .spotify-logomark-group {
+    top: 1024px;
+    left: 308px;
+    flex-direction: row;
+    align-items: center;
+    gap: var(--gap-13xl);
+    font-size: var(--font-size-13xl);
+  }
+  .chevron-down-undefined-gly2 {
+    position: absolute;
+    top: 1024px;
+    left: 1093px;
+    width: 65px;
+    height: 64px;
+    overflow: hidden;
+    object-fit: cover;
+  }
+  .patungan-aplikasi {
+    position: absolute;
+    top: 259px;
+    left: 484px;
+    font-size: 49px;
+    font-weight: 800;
+  }
+  .frame-div {
+    position: absolute;
+    top: 512px;
+    left: 894px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: var(--font-size-sm);
+  }
+  .information {
+    position: absolute;
+    top: 499px;
+    left: 308px;
+    font-size: 24px;
+  }
+  .line-div {
+    position: absolute;
+    top: 474.5px;
+    left: 307.5px;
+    border-top: 1px solid #919191;
+    box-sizing: border-box;
+    width: 840px;
+    height: 1px;
+  }
+  .chevron-up-undefined-glyph {
+    position: absolute;
+    top: 384px;
+    left: 1093px;
+    width: 65px;
+    height: 64px;
+    overflow: hidden;
+    object-fit: cover;
+  }
+  .beli-sekarang-wrapper {
+    position: absolute;
+    top: 564px;
+    left: 842px;
+    border-radius: var(--br-6xl);
+    background-color: #254f7f;
+    width: 239px;
+    height: 48px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 5px 25px;
+    box-sizing: border-box;
+    color: var(--color-white);
+  }
+  .patungan-aplikasi-20 {
+    position: relative;
+    background-color: #f0f0f0;
+    width: 100%;
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-black);
+    font-family: var(--font-poppins);
+  }
+  

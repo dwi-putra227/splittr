@@ -1,0 +1,179 @@
+.tr {
+    color: #0029ff;
+  }
+  .splittr {
+    position: relative;
+    font-weight: 800;
+  }
+  .logo {
+    position: absolute;
+    top: 32px;
+    left: 120px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 0;
+    font-size: var(--font-size-11xl);
+  }
+  .cwok-casual-5-1-icon {
+    position: absolute;
+    top: 109px;
+    left: 547px;
+    width: 346px;
+    height: 446px;
+    object-fit: cover;
+  }
+  .payment-successfully {
+    position: relative;
+    font-weight: 600;
+  }
+  .checkmark-circle-undefined {
+    position: relative;
+    width: 250px;
+    height: 250px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .payment-successfully-parent {
+    position: absolute;
+    top: 555px;
+    left: 384px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 60px;
+    color: #167a70;
+  }
+  .payment-berhasil-child {
+    position: absolute;
+    top: 945px;
+    left: 120px;
+    border-radius: 50px;
+    background-color: var(--color-white);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    width: 1200px;
+    height: 674px;
+  }
+  .payment-berhasil-item {
+    position: absolute;
+    top: 1063px;
+    left: 222px;
+    border-radius: 25px;
+    background-color: #213555;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 384px;
+    height: 385px;
+  }
+  .frame-child {
+    position: relative;
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+  }
+  .ellipse-parent,
+  .summary {
+    position: absolute;
+    top: 1113px;
+  }
+  .ellipse-parent {
+    left: 324px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 31px;
+    font-size: var(--font-size-13xl);
+    color: var(--color-white);
+  }
+  .summary {
+    left: 799px;
+    font-size: var(--font-size-11xl);
+    font-weight: 600;
+    display: inline-block;
+    width: 157px;
+  }
+  .protection-parent,
+  .service-fee-parent,
+  .total-parent {
+    position: absolute;
+    top: 1174px;
+    left: 799px;
+    width: 415px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 315px;
+  }
+  .protection-parent,
+  .service-fee-parent {
+    top: 1270px;
+    gap: 282px;
+  }
+  .service-fee-parent {
+    top: 1222px;
+    gap: 271px;
+  }
+  .payment-berhasil-inner {
+    position: absolute;
+    top: 1318.5px;
+    left: 798.5px;
+    border-top: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 413px;
+    height: 1px;
+  }
+  .total-price-parent {
+    position: absolute;
+    top: 1351px;
+    left: 799px;
+    width: 419px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 272px;
+  }
+  .agustus-2099,
+  .date {
+    position: absolute;
+    top: 981px;
+    left: 1088px;
+    font-size: var(--font-size-5xl);
+    font-weight: 600;
+  }
+  .agustus-2099 {
+    top: 1013px;
+  }
+  .div4 {
+    position: absolute;
+    top: 1374px;
+    left: 360px;
+    font-weight: 500;
+    color: var(--color-white);
+  }
+  .back-to-home {
+    position: absolute;
+    top: 1539px;
+    left: 152px;
+    font-size: var(--font-size-13xl);
+    text-decoration: underline;
+    font-weight: 600;
+    color: #003d8c;
+    cursor: pointer;
+  }
+  .payment-berhasil {
+    position: relative;
+    background-color: #f0f0f0;
+    width: 100%;
+    height: 1651px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-black);
+    font-family: var(--font-poppins);
+  }
+  

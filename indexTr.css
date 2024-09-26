@@ -1,0 +1,224 @@
+.transaction-child {
+    position: absolute;
+    top: 157px;
+    left: 222px;
+    border-radius: 50px;
+    background-color: var(--color-white);
+    box-shadow: 0 0 10px 4px rgba(0, 0, 0, 0.5);
+    width: 996px;
+    height: 773px;
+  }
+  .tr {
+    color: #0029ff;
+  }
+  .splittr {
+    position: relative;
+    font-weight: 800;
+  }
+  .logo {
+    position: absolute;
+    top: 32px;
+    left: 120px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-base) 0;
+    font-size: 30px;
+  }
+  .transaction-history {
+    position: absolute;
+    top: 191px;
+    left: 324px;
+    font-size: var(--font-size-13xl);
+    font-weight: 800;
+  }
+  .transaction-item {
+    position: absolute;
+    top: 275px;
+    left: 324px;
+    background-color: var(--color-white);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 792px;
+    height: 138px;
+  }
+  .agustus-2099,
+  .date,
+  .div,
+  .id-order {
+    position: absolute;
+    top: 299px;
+    left: 936px;
+    font-weight: 500;
+  }
+  .agustus-2099,
+  .div,
+  .id-order {
+    top: 322px;
+  }
+  .div,
+  .id-order {
+    top: 299px;
+    left: 834px;
+  }
+  .div {
+    top: 322px;
+  }
+  .transaction-inner {
+    position: absolute;
+    top: 429px;
+    left: 324px;
+    background-color: var(--color-white);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 792px;
+    height: 138px;
+  }
+  .agustus-2022,
+  .date1 {
+    position: absolute;
+    top: 453px;
+    left: 936px;
+    font-weight: 500;
+  }
+  .agustus-2022 {
+    top: 476px;
+  }
+  .id-order1 {
+    position: absolute;
+    top: 453px;
+    left: 834px;
+  }
+  .div1,
+  .home,
+  .id-order1 {
+    font-weight: 500;
+  }
+  .div1 {
+    position: absolute;
+    top: 476px;
+    left: 834px;
+  }
+  .home {
+    position: relative;
+  }
+  .navbar {
+    position: absolute;
+    top: 42px;
+    left: 437px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-base) 0;
+    gap: 74px;
+    font-size: var(--font-size-base);
+  }
+  .ellipse-icon {
+    position: absolute;
+    top: 38px;
+    left: 1249px;
+    border-radius: 50%;
+    width: 65px;
+    height: 65px;
+    object-fit: cover;
+  }
+  .person-add-undefined-glyph {
+    position: absolute;
+    top: 45px;
+    left: 1055px;
+    width: 50px;
+    height: 50px;
+    overflow: hidden;
+  }
+  .alert-undefined-glyph-und,
+  .chevron-right-undefined-gl,
+  .chevron-right-undefined-gl1 {
+    position: absolute;
+    top: 363px;
+    left: 1066px;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+  }
+  .alert-undefined-glyph-und,
+  .chevron-right-undefined-gl1 {
+    top: 517px;
+  }
+  .alert-undefined-glyph-und {
+    top: 45px;
+    left: 1152px;
+    width: 50px;
+    height: 50px;
+  }
+  .patungan-aplikasi,
+  .patungan-serba-bisa {
+    position: absolute;
+    top: 355px;
+    left: 348px;
+    font-size: var(--font-size-5xl);
+    font-weight: 500;
+  }
+  .patungan-serba-bisa {
+    top: 506px;
+    left: 362px;
+  }
+  .youtube-logomark-icon {
+    position: relative;
+    width: 65px;
+    height: 50px;
+  }
+  .touring,
+  .youtube-logomark-parent {
+    position: absolute;
+    font-size: var(--font-size-13xl);
+  }
+  .youtube-logomark-parent {
+    top: 295px;
+    left: 348px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 32px;
+  }
+  .touring {
+    top: 452px;
+    left: 362px;
+    font-weight: 800;
+  }
+  .transaction {
+    position: relative;
+    background-color: #f0f0f0;
+    width: 100%;
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-sm);
+    color: var(--color-black);
+    font-family: var(--font-poppins);
+  }
+  body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-poppins: Poppins;
+  
+    /* font sizes */
+    --font-size-13xl: 32px;
+    --font-size-5xl: 24px;
+    --font-size-base: 16px;
+    --font-size-sm: 14px;
+  
+    /* Colors */
+    --color-black: #000;
+    --color-white: #fff;
+  
+    /* Paddings */
+    --padding-base: 16px;
+  }
+    

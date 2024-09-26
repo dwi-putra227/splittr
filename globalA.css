@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-poppins: Poppins;
+  
+    /* font sizes */
+    --font-size-base: 16px;
+    --font-size-sm: 14px;
+    --font-size-13xl: 32px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-gray-100: #132740;
+    --color-black: #000;
+    --color-blue: #0029ff;
+    --color-mediumblue: #2b4dff;
+  
+    /* Gaps */
+    --gap-13xl: 32px;
+  
+    /* Paddings */
+    --padding-base: 16px;
+  
+    /* Border radiuses */
+    --br-6xl: 25px;
+    --br-31xl: 50px;
+  }
+  

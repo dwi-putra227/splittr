@@ -1,0 +1,69 @@
+.tr {
+    color: #0029ff;
+  }
+  .splittr {
+    position: relative;
+    font-weight: 800;
+  }
+  .logo {
+    position: absolute;
+    top: 32px;
+    left: 120px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 0;
+  }
+  .cwok-casual-5-1-icon {
+    position: absolute;
+    top: 109px;
+    left: 547px;
+    width: 346px;
+    height: 446px;
+    object-fit: cover;
+  }
+  .sign-up-successfully {
+    position: relative;
+    font-weight: 600;
+  }
+  .checkmark-circle-undefined {
+    position: relative;
+    width: 250px;
+    height: 250px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .sign-up-successfully-parent {
+    position: absolute;
+    top: 555px;
+    left: 407px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 60px;
+    color: #167a70;
+  }
+  .login-berhasil-20 {
+    position: relative;
+    background-color: #f0f0f0;
+    width: 100%;
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 30px;
+    color: #000;
+    font-family: var(--font-poppins);
+  }
+
+  body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-poppins: Poppins;
+  }
+  

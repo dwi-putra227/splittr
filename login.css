@@ -1,0 +1,91 @@
+body {
+  font-family: sans-serif;
+  background-color: #000;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(bgg.png);
+  background-size: cover;
+}
+
+.logo{
+  color: #000;
+  font-style: bold;
+}
+
+
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 440px;
+  padding: 50px;
+  border: 1px solid #ccc;
+  border-radius: 50px;
+  background-color: white;
+}
+
+
+h1 {
+  text-align: center;
+}
+
+form {
+  margin-top: 20px;
+}
+
+input[type="text"], input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #6D6D6D;
+  border-radius: 15px;
+}
+
+#toggle-password {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  color: #ddd;
+}
+
+#toggle-password.active {
+  color: #000;
+}
+
+
+input[type="checkbox"] {
+  margin-right: 5px;
+  margin-bottom: 10px;
+}
+
+input[type="submit"] {
+  background-color: #254F7F;
+  color: #fff;
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 15px;
+}
+
+input[type="submit"]:hover {
+  background-color: white;
+  color: #254F7F;
+  border: 1px solid #000;
+  border-radius: 15px;
+}
+
+a {
+  color: #1877F2;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img {
+  width: 100%;
+  display: block;
+  margin-bottom: 20px;
+}
